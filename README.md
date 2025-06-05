@@ -1,16 +1,32 @@
-# segundo_app_test
+# 💬 Frases Diárias - Flutter
 
-A new Flutter project.
+Um aplicativo simples de **frases motivacionais** feito com **Flutter**, ideal para quem está aprendendo a criar botões, layouts e lógica básica de interação com o usuário.
 
-## Getting Started
+## ✨ Sobre o App
 
-This project is a starting point for a Flutter application.
+Com apenas um toque, o app exibe uma **nova frase de motivação** aleatória na tela. Simples, leve e com código fácil de entender — perfeito para quem está iniciando no Flutter!
 
-A few resources to get you started if this is your first Flutter project:
+### 📱 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🧠 Geração de frases motivacionais com um clique
+- 🎯 Botão interativo com função de atualizar a frase
+- 🎨 Layout simples e organizado para estudo de estrutura visual
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Aprendizados deste projeto
+
+Este projeto ensina conceitos fundamentais como:
+
+- Criação de **Widgets básicos** (`Text`, `ElevatedButton`, `Column`, etc.)
+- Organização de layout com `Center`, `Padding`, `Container`
+- Lógica simples com `setState` para atualizar o conteúdo na tela
+- Como lidar com listas e seleção aleatória de elementos
+
+---
+
+## 🚀 Como rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/emersonnjsantos/frases_diarias_Flutter.git
